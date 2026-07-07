@@ -23,6 +23,7 @@ python app.py
 Then open http://localhost:5050
 
 ## Contributors
-- krishnamj89
+
 - Shubh-bit44
+- krishnamj89
 - vishalkapoor008
